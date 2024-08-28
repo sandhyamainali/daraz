@@ -1,0 +1,133 @@
+ul{
+    list-style: none;
+}
+
+.bg{
+    background-color: #F85606;
+}
+.w{
+    object-fit: contain;
+    width: 100%;
+}
+.ms{
+    width:350px;
+    
+    align-items: center;
+}
+.scroll{
+    width:200px;
+    height: 300px;
+    overflow: auto;
+}
+.width{
+    width:170px;
+    height:150px;
+    text-align: center;
+}
+.box{
+    width:200px;
+    height:300px;
+    margin:2px
+}
+.box p{
+    font-size: 12px;
+}
+.con{
+    width: 200px;
+    height:270px;
+    margin: 2px;
+}
+.con p{
+    font-size: 12px;
+}
+.con img{
+    transition: 0.9s;
+}
+.con:hover img{
+    transform: scale(1.2);
+}
+.ac{
+    text-align: center;
+}
+
+.mb{
+    margin-bottom: 2px;
+}
+
+.box img{
+    
+    transition: 0.9s;
+  
+}
+.box:hover img{
+    transform: scale(1.2);
+    overflow: hidden;
+}
+/* .w{
+    width:250px;
+    height:50px;
+} */
+ .subhead{
+    position: sticky;
+    top:0;
+    z-index: 9999;
+ }
+
+ .list{
+    list-style: none;
+  }
+  .daraz1{
+    padding-top: 5px;
+    width: 10%;
+    height: 40px
+  }
+  footer{
+    position: sticky;
+  
+  
+  }
+  
+  .happy{
+    color: #F85606;
+  }
+  .w2{
+    width: 200px;
+    height: 60px;
+  }
+  .w1{
+    width: 200px;
+    height: 50px;
+  }
+  
+  
+  .title{
+    font-size: 15px;
+  }
+  
+  ul{
+    list-style: none;
+  }
+  
+  .icon{
+    height: 4rem;
+    width: 5rem;
+  }
+  .icon2{
+    height: 4rem;
+    width: 4rem;
+   padding: 5px;
+   align-items: center;
+  }
+  
+  .list2{
+    width: 80px;
+    height: 60px;
+  }
+  
+  .w2{
+    width: 10%;
+  }
+  .icon3{
+    height: 2rem;
+    width: 2rem;
+  }
